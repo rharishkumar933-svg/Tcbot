@@ -1,0 +1,9 @@
+kurigram
+tgcrypto-pyrofork
+aiohttp
+motor
+dnspython
+pysocks
+phonenumbers
+pycountry
+httpx
